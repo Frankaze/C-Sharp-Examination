@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Examination
 {
+    //Multiple by 8 without using multiplication or addition.
     public class Multiple8
     {
         public int Multiply(int intMultiplicand)

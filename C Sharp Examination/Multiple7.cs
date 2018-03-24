@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Examination
 {
+    //Multiple by 7 without using multiplication or addition.
     public class Multiple7
     {
         public int Multiply(int intMultiplicand)
